@@ -1,5 +1,5 @@
-bucket_prefix = "devops-directive-web-app-data"
-domain        = "devopsdeployed.com"
+bucket_prefix = "terraform-learn-web-app-data"
+domain        = "purchaseorder.xyz"
 db_name       = "mydb"
 db_user       = "foo"
 # db_pass = "foobarbaz"
